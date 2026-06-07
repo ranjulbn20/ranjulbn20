@@ -50,7 +50,7 @@ A 9-agent LangGraph system that manages your investments like a hedge fund desk 
 
 ---
 
-### 🔐 [CarlBus](https://github.com/ranjulbn20/carlbus) — Vehicle Network Cybersecurity Simulation
+### 🔐 [CarlBus](https://github.com/spring-iitd/Automotive-Security/tree/Carla/Carla-Simulation) — Vehicle Network Cybersecurity Simulation
 *IIT Delhi × TATA Motors Sponsored Research*
 
 Built a distributed simulation framework integrating CARLA + virtual CAN networks for automotive IDS research. Features DBC-compliant message generation, real-time DoS/spoofing injection, and a machine learning testbed for attack validation.
